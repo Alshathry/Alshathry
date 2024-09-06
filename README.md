@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alshathry
-- 👀 I’m interested in ... CrazyThings
-- 🌱 I’m currently learning ...CreatBeterWorld
+
 
 
 
