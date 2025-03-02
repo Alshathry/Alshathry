@@ -9,7 +9,7 @@
   <AdaptationSet segmentAlignment="true" maxWidth="1920" maxHeight="1080" maxFrameRate="25" par="16:9" mimeType="video/mp4" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
    <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="eb676abb-cb34-5e96-bbcf-616630f1a3da"/>
    <Representation id="1" codecs="avc1.4D4032" width="1920" height="1080" frameRate="25" sar="1:1" bandwidth="4849591">
-    <BaseURL>https://embed-ssl.wistia.com/deliveries/4951f0fc148a17352b0d67ff0c487965.bin</BaseURL>
+    <BaseURL>https://embed-ssl.wistia.com/deliveries/4951f0fc148a17352b0d67ff0c487965/file.mp4</BaseURL>
     <SegmentBase timescale="25000" presentationTimeOffset="2000" indexRangeExact="true" indexRange="1918-2201">
      <Initialization range="0-1865"/>
     </SegmentBase>
